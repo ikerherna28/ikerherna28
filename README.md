@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://raw.githubusercontent.com/ikerherna28/ikerherna28/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 <!--
 **ikerherna28/ikerherna28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
